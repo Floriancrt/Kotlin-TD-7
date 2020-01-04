@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Kotlin</string>
+    <string name="Profile">profil</string>
+    <string name="Profil">Profil</string>
+    <string name="Tâches">Tâches</string>
+    <string name="inscription">Inscription</string>
+    <string name="connexion">Connexion</string>
+</resources>
